@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 h1 {
-	background-color : #011e29;
-	color : white;
-	padding : 20px;
-	text-align : center;
+	background-color: #011e29;
+	color: white;
+	padding: 20px;
+	text-align: center;
 }
 #sec{
 	display:flex;
@@ -13,10 +13,10 @@ h1 {
 }
 .left{
 	background-color: white;
-	display : flex;
+	display: flex;
 	flex-direction: column;
 	text-align:center;
-	width:200px
+	width:200px;
 	
 	
   
